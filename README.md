@@ -1,16 +1,23 @@
-## Hi there 👋
+# Ciao, sono Lorenzo Di Mascia!
 
-<!--
-**dmax96/dmax96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Questo è il mio profilo GitHub! Sono uno sviluppatore appassionato sul lato backend. Qui troverai alcuni dei miei progetti.
 
-Here are some ideas to get you started:
+## 💻 Tecnologie e strumenti che utilizzo:
+- Linguaggi: C C++ Python 
+- Framework: Django
+- Strumenti: Git Vscode Deepseek
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Attualmente sto imparando:
+- Linguaggi: Java
+- Framework: Spring Framework
+- Strumenti: Docker
+
+## 📫 Come contattarmi:
+- Email: dimascialorenzo@gmail.com
+- LinkedIn: https://www.linkedin.com/in/lorenzo-di-mascia-0ba7b3185/
+
+## 🚀 Progetti in evidenza:
+- Trascendence(https://github.com/dmax96/ft_trascendence): un sito che permette di giocare a PONG Registrandosi mantenendo le proprie statistiche.
+- Minishell(https://github.com/dmax96/Minishell): Una ricostruzione in C di una shell di Linux che riproduce i comandi base.
+
+Questo è quanto! 😄
