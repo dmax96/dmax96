@@ -1,4 +1,4 @@
-# Ciao, sono Lorenzo Di Mascia!
+# Hello!
 
 Questo è il mio profilo GitHub! Sono uno sviluppatore appassionato sul lato backend. Qui troverai alcuni dei miei progetti.
 
