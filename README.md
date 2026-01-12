@@ -3,13 +3,13 @@
 Questo è il mio profilo GitHub! Sono uno sviluppatore appassionato sul lato backend. Qui troverai alcuni dei miei progetti.
 
 ## 💻 Tecnologie e strumenti che utilizzo:
-- Linguaggi: C C++ Python 
-- Framework: Django
-- Strumenti: Git Vscode Deepseek
+- Linguaggi: Java 
+- Framework: SpringBoot JavaWeb
+- Strumenti: Git Vscode Eclipse Intellij
 
 ## 🌱 Attualmente sto imparando:
-- Linguaggi: Java
-- Framework: Spring Framework
+- Linguaggi: C#
+- Framework: Asp.Net
 - Strumenti: Docker
 
 ## 📫 Come contattarmi:
