@@ -18,6 +18,6 @@ Questo è il mio profilo GitHub! Sono uno sviluppatore appassionato sul lato bac
 
 ## 🚀 Progetti in evidenza:
 - Trascendence(https://github.com/dmax96/ft_trascendence): un sito che permette di giocare a PONG Registrandosi mantenendo le proprie statistiche.
-- LolTracker(https://github.com/dmax96/Minishell): Un tracker delle tue statistiche personali su LeagueOfLegends sfruttando le API riot.
+- LolTracker(https://github.com/dmax96/LolTracker): Un tracker delle tue statistiche personali su LeagueOfLegends sfruttando le API riot.
 
 Questo è quanto! 😄
