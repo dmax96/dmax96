@@ -8,8 +8,8 @@ Questo è il mio profilo GitHub! Sono uno sviluppatore appassionato sul lato bac
 - Strumenti: Git Vscode Eclipse Intellij
 
 ## 🌱 Attualmente sto imparando:
-- Linguaggi: C#
-- Framework: Asp.Net
+- Linguaggi: SpringSecurity
+- Framework: Springboot
 - Strumenti: Docker
 
 ## 📫 Come contattarmi:
